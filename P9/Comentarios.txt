@@ -1,0 +1,5 @@
+Hola equipo 10,
+
+Su archivo se ejecutó correctamente y las consultas cumplen básicamente con lo solicitado.
+
+Calificación 10

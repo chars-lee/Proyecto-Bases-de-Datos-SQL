@@ -1,0 +1,11 @@
+Hola equipo 10, mis comentarios de su práctica 2:
+
+No encontré la diferencia entre Orden de venta y Contrato de venta, lo mismo para compra.
+No entendí su notación de cardinalidad, en la sesión de ayudantía vimos una manera de expresarlo.
+No están expresando la relación de los empleados con lo demás.
+Considero que es redundante la especialización de Cliente, creo que podría solucionarse con un catálogo Tipo_cliente que además podría estar ligado a la orden, para cubrir el caso en que un mismo cliente puede ser comprador y vendedor.
+¿Para que existe el catálogo de motivos?
+Veo varios atributos que podrían convertirse en catálogos, pero eso se verá en la normalización.
+Aún faltan varios ajustes al diagrama, consideren mis comentarios y lo que se comente en las sesiones de ayudantía, si requieren asesoría personalizada, envíenme un correo.
+
+Calificación 8.5

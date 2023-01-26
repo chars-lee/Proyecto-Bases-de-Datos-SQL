@@ -1,0 +1,7 @@
+Hola equipo 10, mis comentarios de su práctica 3:
+
+¿Como sabrían si un cliente es vendedor o comprador en determinado contrato-venta? (La relación de contrato_venta debería ser con tipo_cliente y no directamente con cliente) De igual manera para cita, si es que les interesa guardar ese dato en las citas.
+No entendí para que es el catalogo de asistencia y si es un catálogo, ¿por qué tiene como atributo el id del cliente?
+No es necesaria la relación directa del cliente con la factura, basta con la relación con contrato_venta, ahí ya tienen el id del cliente
+En contrato_venta tienen la FK cf_pago, pero no hay relación con el catálogo
+Calificación 9

@@ -1,0 +1,5 @@
+Hola equipo 10,
+
+Su archivo se ejecutó correctamente y las consultas cumplen básicamente con lo solicitado. Recuerden que la dificultad de las consultas debe ir en aumento.
+
+Calificación 10.

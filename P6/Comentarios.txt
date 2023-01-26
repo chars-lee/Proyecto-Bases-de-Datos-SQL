@@ -1,0 +1,5 @@
+Hola equipo 10,
+
+Sus archivos se ejecutaron correctamente. Para el proyecto, consideren que sus consultas se ejecutan después de las eliminaciones y preferentemente deben devolver algún valor. También consideren que para la siguiente práctica, el nivel de dificultad de sus consultas, debe aumentar. Hicieron menos actualizaciones y eliminaciones de las que se pidieron (eran 2 por tabla). Entiendo si tienen problemas para entregar la práctica, pero se debe avisar antes, recuerden que son 2 puntos menos por día de retraso.
+
+Calificación 7.

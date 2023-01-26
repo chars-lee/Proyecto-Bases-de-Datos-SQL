@@ -1,0 +1,6 @@
+Hola equipo 10,
+
+Su primer archivo se ejecutó correctamente, sin embargo, el segundo no, recuerden que deben probar sus archivos para verificar que se ejecutan sin errores. Como sugerencia, primero agreguen todos los ALTER para PK's, luego FK's, CHECK's y finalmente NOT NULL's. El orden importa porque no pueden declarar una FK sin que antes exista la PK.
+Para la entrega de proyecto procuren agregar más casos de integridad de dominio (sentencia CHECK) pueden agregar casos para definir catálogos, con fechas y/o números.
+
+Calificación 5
